@@ -17,7 +17,7 @@ function jwt() {
         path: [
             '/api/doctor/login',
         ]
-    });
+    })
 }
 
 
